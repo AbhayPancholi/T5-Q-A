@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 .virtual_documents
 __pycache__
+models/
+pretrained_models/
+test_utils.py
+w3_unittest.py
